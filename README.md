@@ -1,4 +1,4 @@
-# unifi-task
+# manage recipes
 
 ## Project setup
 ```
